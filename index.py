@@ -16,4 +16,4 @@ elif key == ord("s"):  # if "s" is pressed
     cv2.imwrite("lena_copy.png", img)
     cv2.destroyAllWindows()
 
-    # 1:23:00
+    # 1:50:00
